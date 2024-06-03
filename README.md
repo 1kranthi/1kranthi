@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/0ed28b734a42d06a96cc57f5d478625c.gif?resize=300x0)]
+[![MasterHead](https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif)]
 <h1 align="center">Hi 👋, I'm Kranthi Reddy Solipuram</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
