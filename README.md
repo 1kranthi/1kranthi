@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif)]
+[![MasterHead](https://wallpaperbat.com/img/122257-developer-wallpaper-top-free-developer-background.jpg)]
 <h1 align="center">Hi 👋, I'm Kranthi Reddy Solipuram</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
