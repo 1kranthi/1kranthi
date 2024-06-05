@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperbat.com/img/122257-developer-wallpaper-top-free-developer-background.jpg)]
+[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/982/350/desktop-wallpaper-development-full-stack-developer-thumbnail.jpg)]
 <h1 align="center">Hi 👋, I'm Kranthi Reddy Solipuram</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
