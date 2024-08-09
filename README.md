@@ -1,4 +1,4 @@
-[![MasterHead](<a href="https://imageresizer.com/" target="_blank">Image Resizer</a>)]
+[![MasterHead](https://wallpaperbat.com/img/225279-programmer-wallpaper-17582.png)]
 <h1 align="center">Hi 👋, I'm Kranthi Reddy Solipuram</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
